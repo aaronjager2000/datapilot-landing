@@ -125,26 +125,6 @@ const Testimonials = () => {
                 </div>
               </div>
             </div>
-            <div className="owl-thumbs" data-slider-id="1">
-              <div className="testimonial-img owl-thumb-item">
-                <img
-                  src="/assets/images/testimonials/avatar-1.png"
-                  alt="avatar author"
-                />
-              </div>
-              <div className="testimonial-img owl-thumb-item">
-                <img
-                  src="/assets/images/testimonials/avatar-2.png"
-                  alt="avatar author"
-                />
-              </div>
-              <div className="testimonial-img owl-thumb-item">
-                <img
-                  src="/assets/images/testimonials/avatar-3.png"
-                  alt="avatar author"
-                />
-              </div>
-            </div>
           </div>
         </div>
       </div>

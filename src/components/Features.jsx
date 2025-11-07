@@ -76,7 +76,7 @@ const Features = () => {
         </div>
         <div className="container">
           <div className="row">
-            <div className="col-12 col-md-5">
+            <div className="col-12">
               <div className="features-card pt-30">
                 <div className="heading heading-3">
                   <p className="heading-subtitle">
@@ -104,30 +104,12 @@ const Features = () => {
                 </ul>
               </div>
             </div>
-            <div className="col-12 col-md-7">
-              <div className="feature-img pl-lg-4">
-                <img
-                  className="img-fluid pl-lg-5"
-                  src="/assets/images/screenshots/screenshot-2.png"
-                  alt="Data Analytics Features"
-                />
-              </div>
-            </div>
           </div>
         </div>
         <div className="feature-space"></div>
         <div className="container">
           <div className="row">
-            <div className="col-12 col-md-7">
-              <div className="feature-img pr-lg-4">
-                <img
-                  className="img-fluid pr-lg-5"
-                  src="/assets/images/screenshots/screenshot-2.png"
-                  alt="External Integrations"
-                />
-              </div>
-            </div>
-            <div className="col-12 col-md-5">
+            <div className="col-12">
               <div className="features-card pt-30">
                 <div className="heading heading-3">
                   <p className="heading-subtitle">
